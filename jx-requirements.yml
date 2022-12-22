@@ -19,7 +19,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "umairbajwa.net"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
